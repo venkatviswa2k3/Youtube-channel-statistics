@@ -3,7 +3,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 from googleapiclient.discovery import build
 from IPython.display import JSON
-api_key = 'AIzaSyAnUCot4NtgUNq9NdYxfMK_NuN2Lbl4x-4'
+api_key='
 api_service_name = "youtube"
 api_version = "v3"
 channel_ids = ['UCCPWi_OwWMR5JTiujn7v-7g','UCvyZS6W6zMJCZBVzF-Ei6sw','UCX6OQ3DkcsbYNE6H8uQQuVA','UCq-Fj5jknLsUf-MWSy4_brA','UC-lHJZR3Gqxm24_Vd_AJ5Yw']
